@@ -27,8 +27,8 @@
 
 각 장의 제목을 클릭하면 상세 규정 문서로 이동합니다.
 
-1.  **[[제1장: 열람실 및 좌석 이용 규정]](https://github.com/uready03-creator/Test/blob/LeeHS/01_reservation.md)**
-    * 스마트 열람실 예약, 외출 제한 및 반납 수칙
+1.  **[[제1장: 좌석 및 시설물 이용 규정]](https://github.com/uready03-creator/Test/blob/LeeHS/01_reservation.md)**
+    * 좌석 및 시설물 예약/이용 방법, 위반 시 제재사항 안내
 2.  **[제2장: 도서 대출 및 반납 수칙](각자 파일주소)**
     * 신분별 대출 권수/기간, 연체료 및 변상 규정
 3.  **[[제3장: 관내 에티켓 및 주요 시설 가이드]](https://github.com/uready03-creator/Test/blob/main/03_etiquette.md)**
