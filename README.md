@@ -39,10 +39,10 @@
 
 
   ##  협업 수칙
-  # 이거 보고 잘 따라주세요 나중에 지울게요
+
 1.  **Issue 발행**: 작업 단위별 Issue 생성 및 담당자 할당
 2.  **Project 관리**: Kanban Board를 통한 진행 상황(Todo/In Progress/Done) 시각화
 3.  **Branch 전략**: `main` 브랜치 직접 수정 금지, `feature/명칭` 브랜치 활용
 4.  **Pull Request**: 팀원 간 교차 검토 후 `main` 브랜치 병합(Merge)
-5.  **Automation**: PR 본문에 `Closes #이슈번호` 기입을 통한 이슈 자동 종료
 
+![호반우 사진](https://th.bing.com/th/id/OIP.CS10nSte14t4TDx7WPvehQHaKd?w=118&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3)
