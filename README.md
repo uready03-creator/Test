@@ -42,7 +42,7 @@
 
 1.  **[제1장: 열람실 및 좌석 이용 규정](각자 파일주소)**
     * 스마트 열람실 예약, 외출 제한 및 반납 수칙
-2.  **[제2장: 도서 대출 및 반납 수칙](각자 파일주소)**
+2.  **[제2장: 도서 대출 및 반납 수칙](https://github.com/uready03-creator/Test/blob/main/02_LendingPolicy.md)**
     * 신분별 대출 권수/기간, 연체료 및 변상 규정
 3.  **[[제3장: 관내 에티켓 및 주요 시설 가이드]](https://github.com/uready03-creator/Test/blob/main/03_etiquette.md)**
     * 소음/취식 규정 및 그룹 스터디룸/PC존 이용법
