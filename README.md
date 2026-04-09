@@ -60,10 +60,14 @@
 2.  **Project 관리**: Kanban Board를 통한 진행 상황(Todo/In Progress/Done) 시각화
 3.  **Branch 전략**: `main` 브랜치 직접 수정 금지, `feature/명칭` 브랜치 활용
 4.  **Pull Request**: 팀원 간 교차 검토 후 `main` 브랜치 병합(Merge)
+5.  **Merge**: merge commit을 활용해 history저장 가능
+6.  **commit 횟수**: 각자 20회 내외
 ---
 ##  프로젝트 일정 및 마감 
 
 * **전체 작업 기간:**  ~ 2026.04.09
 * **github 최종 마감 일시:** 2026.04.09 (목) 23:59 까지
 *  **발표일:** 2026.04.23 (목) 수업시간
+
+
 ![호반우 사진](https://th.bing.com/th/id/OIP.CS10nSte14t4TDx7WPvehQHaKd?w=118&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3)
